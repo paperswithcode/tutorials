@@ -25,6 +25,14 @@ The task is required for this second way of adding result as it is a required fi
 
 Ensure you include all the information that's requested in the form. 
 
-A **third way** of adding results is to do it directly from the benchmark interface. Assuming you already identified this existing leaderboard, you can click on the "Edit Leaderboard" button, and add the results as a row to the table. You are required to add model name, paper, result, etc.
+A **third way** of adding results is to do it directly from the leaderboard interface. Assuming you already identified this existing leaderboard, you can click on the "Edit Leaderboard" button, and add the results as a row to the table. You are required to add model name, paper, result, etc.
 
 ![image](https://user-images.githubusercontent.com/7049564/151843793-bf8c94ff-7928-402d-9681-8c59850b8ccd.png)
+
+Leaderboard interface:
+
+![image](https://user-images.githubusercontent.com/7049564/151844553-e29f3de9-cff6-4e34-9123-1d1e69873192.png)
+
+Ensure to click on save after adding your result as the table doesn't autosave. You can even add extra columns there if there is a missing metric you want to report results for. 
+
+Leave an issue if you have any other questions. 
