@@ -35,4 +35,4 @@ Leaderboard interface:
 
 Ensure to click on save after adding your result as the table doesn't autosave. You can even add extra columns there if there is a missing metric you want to report results for. 
 
-Leave an issue if you have any other questions. 
+Leave an [issue](https://github.com/paperswithcode/tutorials/issues/new) if you have any other questions. 
