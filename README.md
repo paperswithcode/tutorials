@@ -11,6 +11,7 @@ Basic guidance on how to contribute to Papers with Code
 
 ![image](https://user-images.githubusercontent.com/7049564/151842889-1fc4f21b-ece0-40c7-b663-f1f26bc1ebfd.png)
 
+Add Results Interface:
 
 ![image](https://user-images.githubusercontent.com/7049564/151842790-d1182cc2-bbb5-4ce3-8e0f-398eb6608846.png)
 
