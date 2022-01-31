@@ -1,4 +1,4 @@
-# Tutorials
+# Papers with Code Tutorials
 Basic guidance on how to contribute to Papers with Code
 
 ### Adding Results on Papers with Code
