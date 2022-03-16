@@ -8,7 +8,7 @@
 
 4) Then click "+Add". (example below)
 
-![image](https://user-images.githubusercontent.com/7049564/158547915-2a40db44-e10b-4561-85fb-83454d567ef2.png)
+![image](https://user-images.githubusercontent.com/7049564/158549370-8ea6a35e-7337-4e4a-879b-a1574b1f5d57.png)
 
 5) In the popup dialog box, click "+ Create a new task". (example below)
 
