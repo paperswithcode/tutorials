@@ -2,7 +2,7 @@
 
 1) Create an account on Papers with Code if you don't have one yet. 
 
-2) Browse to the corresponding paper page for which you want to add a result. 
+2) Browse to the corresponding paper page for which you want to add a task. 
 
 3) Click on "Edit" Under **Tasks**
 
