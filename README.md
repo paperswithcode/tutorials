@@ -1,7 +1,7 @@
 # Papers with Code Tutorials
 Basic guidance on how to contribute to Papers with Code
 
-* [Add a Papers to Papers with Code](https://github.com/paperswithcode/tutorials/blob/main/add_paper.md)
+* [Adding Papers to Papers with Code](https://github.com/paperswithcode/tutorials/blob/main/add_paper.md)
 
 * [Adding Results on Papers with Code](https://github.com/paperswithcode/tutorials/blob/main/add_results.md)
 
